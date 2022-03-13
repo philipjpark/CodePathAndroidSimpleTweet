@@ -33,9 +33,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Kapture 2022-03-12 at 23 24 42](https://user-images.githubusercontent.com/66290921/158045028-6473a7b6-0a08-4b8c-a532-ec4aab8ce76f.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
