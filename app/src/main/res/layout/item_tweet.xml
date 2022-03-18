@@ -26,6 +26,17 @@
         tools:text="calren24" />
 
     <TextView
+        android:id="@+id/tvTimestamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="20sp"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintBottom_toTopOf="@id/tvTweetBody"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:text="25 minutes ago" />
+
+    <TextView
         android:id="@+id/tvTweetBody"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -36,5 +47,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constrainedWidth="true"
         tools:text="This is a really long text to display the layout" />
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
